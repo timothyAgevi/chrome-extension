@@ -1,0 +1,309 @@
+.balanceDisplayBg,
+.balanceDisplayBg1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.balanceDisplayBg1 {
+  height: 100%;
+  bottom: 0;
+  background-color: #4c4aa1;
+}
+.balanceDisplayBg {
+  height: 41.33%;
+  bottom: 58.67%;
+}
+.depositButton,
+.transferButton {
+  position: absolute;
+  top: 34rem;
+  left: 12.25rem;
+}
+.depositButton {
+  left: 2rem;
+}
+.homeRuleA,
+.homeRuleB,
+.homeRuleC,
+.tabSelectIndicator {
+  position: absolute;
+  top: 32.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.homeRuleA,
+.homeRuleB,
+.tabSelectIndicator {
+  top: 25.5rem;
+}
+.homeRuleA,
+.tabSelectIndicator {
+  top: 20.5rem;
+}
+.tabSelectIndicator {
+  top: 15.47rem;
+  left: 1.94rem;
+  border-top: 2px solid #ff7575;
+  width: 2.94rem;
+  height: 0.13rem;
+}
+.assets,
+.history {
+  top: 13.69rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  height: 1rem;
+}
+.assets {
+  position: absolute;
+  left: 2rem;
+  display: flex;
+  align-items: center;
+  width: 3.5rem;
+}
+.history {
+  left: 6.5rem;
+  width: 5rem;
+  opacity: 0.3;
+}
+.dailyDriver,
+.div,
+.eth,
+.history,
+.x3cdbf32x {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.div {
+  top: 8rem;
+  left: 2rem;
+  font-size: 2rem;
+  line-height: 2rem;
+  font-family: "SF UI Display";
+  width: 13rem;
+  height: 2rem;
+}
+.dailyDriver,
+.eth,
+.x3cdbf32x {
+  height: 1rem;
+}
+.eth {
+  top: 10rem;
+  left: 2rem;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-weight: 500;
+  width: 5rem;
+  opacity: 0.8;
+}
+.dailyDriver,
+.x3cdbf32x {
+  left: 5rem;
+  font-family: Inter;
+}
+.dailyDriver {
+  top: 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  width: 8rem;
+}
+.x3cdbf32x {
+  top: 2.63rem;
+  font-size: 0.75rem;
+  width: 7.5rem;
+  opacity: 0.8;
+}
+.accountConnectedIcon {
+  position: absolute;
+  top: 1.5rem;
+  left: 2rem;
+  width: 2.06rem;
+  height: 2.13rem;
+}
+.hamburgerIcon,
+.networkSelectWhite {
+  position: absolute;
+  overflow: hidden;
+  opacity: 0.3;
+}
+.hamburgerIcon {
+  top: 1.5rem;
+  left: 20rem;
+  width: 2rem;
+  height: 2rem;
+}
+.networkSelectWhite {
+  height: 5.33%;
+  width: 8.53%;
+  top: 4%;
+  right: 16.8%;
+  bottom: 90.67%;
+  left: 74.67%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.homeRuleD {
+  position: absolute;
+  top: 30.47rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.yourSignatureIs {
+  position: absolute;
+  top: 2.13rem;
+  left: 2rem;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 18.19rem;
+  height: 2rem;
+}
+.whiteBg {
+  position: absolute;
+  top: 9.5rem;
+  left: 0;
+  background-color: #fff;
+  width: 23.44rem;
+  height: 23rem;
+}
+.outlineButton,
+.primaryButton,
+.why {
+  position: absolute;
+  top: 29rem;
+  left: 12.25rem;
+}
+.outlineButton,
+.why {
+  left: 2rem;
+}
+.why {
+  top: 10.44rem;
+  left: 2.06rem;
+  line-height: 2rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 8.5rem;
+  height: 2.5rem;
+}
+.thisIsA {
+  margin: 0;
+}
+.blankLine {
+  margin: 0;
+  color: #3b38d0;
+}
+.thisIsAContainer {
+  position: absolute;
+  top: 13.06rem;
+  left: 2rem;
+  line-height: 1.25rem;
+  display: inline-block;
+  width: 19.5rem;
+  height: 4.44rem;
+  color: #807dc0;
+}
+.requestSignatureChild,
+.requestSignatureItem {
+  position: absolute;
+  top: 27.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.requestSignatureItem {
+  top: 19.47rem;
+}
+.requestSignatureInner {
+  position: absolute;
+  top: 23.5rem;
+  left: 2rem;
+}
+.randomDataTo,
+.streamrCore {
+  position: absolute;
+  height: 1rem;
+}
+.randomDataTo {
+  top: 22rem;
+  left: 2rem;
+  font-size: 0.75rem;
+  display: flex;
+  align-items: center;
+  width: 10rem;
+}
+.streamrCore {
+  top: 0;
+  left: 3rem;
+  line-height: 1rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 8rem;
+}
+.dataLogoIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2rem;
+  height: 2rem;
+  overflow: hidden;
+}
+.streamrnetworkcore {
+  position: absolute;
+  top: 1rem;
+  left: 3rem;
+  font-size: 0.75rem;
+  color: #807dc0;
+  display: flex;
+  align-items: center;
+  width: 10.38rem;
+  height: 1rem;
+}
+.streamrCoreParent {
+  position: absolute;
+  top: 5.5rem;
+  left: 2rem;
+  width: 13.38rem;
+  height: 2rem;
+}
+.requestSignature,
+.sigRequest {
+  background-color: #f8f8f8;
+  overflow: hidden;
+}
+.requestSignature {
+  position: absolute;
+  top: 5rem;
+  left: 0;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  width: 23.44rem;
+  height: 32.5rem;
+  color: #373583;
+  font-family: Inter;
+}
+.sigRequest {
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 37.5rem;
+  text-align: left;
+  font-size: 0.88rem;
+  color: #fff;
+  font-family: "SF UI Text";
+}

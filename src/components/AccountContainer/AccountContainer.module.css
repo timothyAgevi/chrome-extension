@@ -1,0 +1,49 @@
+.addToken {
+    position: absolute;
+    top: 0;
+    left: 5rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 14.81rem;
+    height: 5rem;
+  }
+  .accountFunctionListEntryChild {
+    position: absolute;
+    top: 1.5rem;
+    left: 2rem;
+    width: 2rem;
+    height: 2rem;
+  }
+  .accountFunctionListEntry {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 23.44rem;
+    height: 5rem;
+    overflow: hidden;
+  }
+  .xCloseIcon {
+    position: absolute;
+    height: 19.55%;
+    width: 4.17%;
+    top: 40.4%;
+    right: 85.08%;
+    bottom: 40.05%;
+    left: 10.75%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .newAccount {
+    position: absolute;
+    top: 20.5rem;
+    left: -0.06rem;
+    width: 23.44rem;
+    height: 5rem;
+    opacity: 0.3;
+    text-align: left;
+    font-size: 0.88rem;
+    color: #373583;
+    font-family: "SF UI Text";
+  }

@@ -1,0 +1,95 @@
+.yourGatewayTo {
+    margin: 0;
+  }
+  .yourGatewayToContainer1 {
+    line-break: anywhere;
+    width: 100%;
+  }
+  .yourGatewayToContainer {
+    position: absolute;
+    top: 21.31rem;
+    left: 3.25rem;
+    line-height: 1.13rem;
+    color: #4c4aa1;
+    display: flex;
+    align-items: center;
+    width: 16.44rem;
+    height: 3.5rem;
+    opacity: 0.7;
+  }
+  .welcomeToCrypsenseContainer {
+    position: absolute;
+    top: 16.88rem;
+    left: 2.19rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #373583;
+    display: flex;
+    align-items: center;
+    width: 18.5rem;
+  }
+  .qr1Icon {
+    position: absolute;
+    top: 13.38rem;
+    left: 6.88rem;
+    width: 9.75rem;
+    height: 9.5rem;
+    object-fit: cover;
+    opacity: 0;
+    mix-blend-mode: multiply;
+  }
+  .viewOnEtherscan {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10rem;
+    height: 2.5rem;
+  }
+  .ethButton,
+  .exportKeyButton {
+    position: absolute;
+    top: 26rem;
+    left: 6.75rem;
+    border-radius: 4px;
+    border: 1px solid #0d4682;
+    box-sizing: border-box;
+    width: 10rem;
+    height: 2.5rem;
+    opacity: 0;
+    font-family: "SF UI Text";
+  }
+  .exportKeyButton {
+    top: 29.5rem;
+  }
+  .outlineButton,
+  .primaryButton {
+    position: absolute;
+    top: 32.5rem;
+    left: 2rem;
+  }
+  .primaryButton {
+    left: 12.25rem;
+  }
+  .onboarding1Child {
+    position: absolute;
+    top: 5rem;
+    left: 6.88rem;
+    width: 8.75rem;
+    height: 8.75rem;
+  }
+  .onboarding1 {
+    position: relative;
+    background-color: #f8f8f8;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 37.5rem;
+    overflow: hidden;
+    text-align: center;
+    font-size: 0.88rem;
+    color: #0d4682;
+    font-family: Inter;
+  }

@@ -1,0 +1,43 @@
+.signOut1 {
+    position: absolute;
+    top: 0;
+    left: 5rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 14.81rem;
+    height: 5rem;
+  }
+  .accountFunctionListEntryChild {
+    position: absolute;
+    top: 1.5rem;
+    left: 2rem;
+    width: 2rem;
+    height: 2rem;
+  }
+  .accountFunctionListEntry {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 23.44rem;
+    height: 5rem;
+    overflow: hidden;
+  }
+  .signOutChild {
+    position: absolute;
+    top: 34.06rem;
+    left: 2.47rem;
+    width: 0.94rem;
+    height: 0.88rem;
+  }
+  .signOut {
+    position: absolute;
+    top: 32rem;
+    left: 0;
+    width: 23.44rem;
+    height: 5rem;
+    text-align: left;
+    font-size: 0.88rem;
+    color: #373583;
+    font-family: "SF UI Text";
+  }

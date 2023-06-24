@@ -1,0 +1,736 @@
+.balanceDisplayBg,
+.balanceDisplayBg1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.balanceDisplayBg1 {
+  height: 100%;
+  bottom: 0;
+  background-color: #4c4aa1;
+}
+.balanceDisplayBg {
+  height: 41.33%;
+  bottom: 58.67%;
+}
+.depositButton,
+.transferButton {
+  position: absolute;
+  top: 34rem;
+  left: 12.25rem;
+}
+.depositButton {
+  left: 2rem;
+}
+.homeRuleA,
+.homeRuleB,
+.homeRuleC,
+.tabSelectIndicator {
+  position: absolute;
+  top: 32.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.homeRuleA,
+.homeRuleB,
+.tabSelectIndicator {
+  top: 25.5rem;
+}
+.homeRuleA,
+.tabSelectIndicator {
+  top: 20.5rem;
+}
+.tabSelectIndicator {
+  top: 15.47rem;
+  left: 1.94rem;
+  border-top: 2px solid #ff7575;
+  width: 2.94rem;
+  height: 0.13rem;
+}
+.assets,
+.history {
+  top: 13.69rem;
+  font-size: 0.88rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  height: 1rem;
+}
+.assets {
+  position: absolute;
+  left: 2rem;
+  display: flex;
+  align-items: center;
+  width: 3.5rem;
+}
+.history {
+  left: 6.5rem;
+  width: 5rem;
+  opacity: 0.3;
+}
+.dailyDriver,
+.eth,
+.history,
+.usd,
+.x3cdbf32x {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.usd {
+  top: 8rem;
+  left: 2rem;
+  font-size: 2rem;
+  line-height: 2rem;
+  font-family: "SF UI Display";
+  width: 13rem;
+  height: 2rem;
+}
+.dailyDriver,
+.eth,
+.x3cdbf32x {
+  height: 1rem;
+}
+.eth {
+  top: 10rem;
+  left: 2rem;
+  line-height: 1rem;
+  font-weight: 500;
+  width: 5rem;
+  opacity: 0.8;
+}
+.dailyDriver,
+.x3cdbf32x {
+  left: 5rem;
+  font-family: Inter;
+}
+.dailyDriver {
+  top: 1.5rem;
+  font-size: 1rem;
+  width: 8rem;
+}
+.x3cdbf32x {
+  top: 2.63rem;
+  width: 7.5rem;
+  opacity: 0.8;
+}
+.accountConnectedIcon {
+  position: absolute;
+  top: 1.5rem;
+  left: 2rem;
+  width: 2.06rem;
+  height: 2.13rem;
+}
+.hamburgerIcon,
+.networkSelectWhite {
+  position: absolute;
+  overflow: hidden;
+  opacity: 0.3;
+}
+.hamburgerIcon {
+  top: 1.5rem;
+  left: 20rem;
+  width: 2rem;
+  height: 2rem;
+}
+.networkSelectWhite {
+  height: 5.33%;
+  width: 8.53%;
+  top: 4%;
+  right: 16.8%;
+  bottom: 90.67%;
+  left: 74.67%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.depositSheetChild,
+.depositSheetInner,
+.depositSheetItem,
+.lineDiv {
+  position: absolute;
+  top: 6.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.depositSheetInner,
+.depositSheetItem,
+.lineDiv {
+  top: 19.97rem;
+}
+.depositSheetInner,
+.lineDiv {
+  top: 30.97rem;
+}
+.lineDiv {
+  top: 42.47rem;
+}
+.depositEth {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  color: #373583;
+}
+.toUseDecentralized {
+  margin: 0;
+  line-height: 1rem;
+}
+.depositEthToContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.depositEthToContainer,
+.directDepositIfContainer {
+  position: absolute;
+  top: 0.69rem;
+  left: 2rem;
+  display: flex;
+  align-items: center;
+  width: 19.5rem;
+  height: 5rem;
+}
+.directDepositIfContainer {
+  top: 7rem;
+}
+.buyEthWithContainer {
+  top: 20.69rem;
+  left: 2rem;
+  width: 19.5rem;
+  height: 5rem;
+}
+.buyEthOnContainer,
+.buyEthWithContainer,
+.dailyDriver1,
+.x3cdbf32x1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.buyEthOnContainer {
+  top: 32.13rem;
+  left: 2rem;
+  width: 19.5rem;
+  height: 5rem;
+}
+.dailyDriver1,
+.x3cdbf32x1 {
+  left: 0;
+  height: 1rem;
+}
+.dailyDriver1 {
+  top: 0;
+  width: 5rem;
+}
+.x3cdbf32x1 {
+  top: 1.13rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  font-family: "SF UI Text";
+  color: #807dc0;
+  width: 7.5rem;
+}
+.accountNameBalance {
+  position: absolute;
+  top: 0;
+  left: 3rem;
+  width: 7.5rem;
+  height: 2.13rem;
+}
+.idntcn1Icon {
+  position: absolute;
+  top: 0.45rem;
+  left: 0.4rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.accountIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2rem;
+  height: 2rem;
+}
+.accountNameBalanceParent {
+  position: absolute;
+  top: 12.5rem;
+  left: 10rem;
+  width: 10.5rem;
+  height: 2.13rem;
+  font-size: 1rem;
+  color: #373583;
+  font-family: "SF UI Display";
+}
+.exportKeyButtonChild {
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background-color: #fff;
+}
+.copyAddress,
+.exportKeyButton,
+.exportKeyButtonChild {
+  position: absolute;
+  width: 9rem;
+  height: 2.5rem;
+}
+.copyAddress {
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.exportKeyButton {
+  top: 16rem;
+  left: 10rem;
+  text-align: center;
+  font-size: 0.88rem;
+  color: #373583;
+}
+.mmQr1Icon {
+  position: absolute;
+  top: 12rem;
+  left: 1.5rem;
+  width: 7rem;
+  height: 7rem;
+  overflow: hidden;
+}
+.groupChild,
+.groupIcon {
+  position: absolute;
+  width: 7.5rem;
+  height: 2.5rem;
+}
+.groupIcon {
+  top: 26.5rem;
+  left: 2rem;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background-color: #eee;
+}
+.coinswitchIcon {
+  position: absolute;
+  top: 0.94rem;
+  left: 0.94rem;
+  width: 5.63rem;
+  height: 0.63rem;
+}
+.rectangleParent,
+.visitCoinswitch,
+.visitWyre {
+  position: absolute;
+  top: 38rem;
+  left: 2rem;
+  width: 7.5rem;
+  height: 2.5rem;
+}
+.visitCoinswitch,
+.visitWyre {
+  top: 26.5rem;
+  left: 10.5rem;
+  font-size: 0.88rem;
+  line-height: 1.25rem;
+  color: #3b38d0;
+  display: flex;
+  align-items: center;
+  width: 6.38rem;
+}
+.visitCoinswitch {
+  top: 38rem;
+  width: 9.5rem;
+}
+.depositSheet {
+  position: absolute;
+  height: 117.5%;
+  width: 100%;
+  top: 41.33%;
+  right: 0;
+  bottom: -58.83%;
+  left: 0;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  opacity: 0;
+  color: #807dc0;
+}
+.sendFlow2Child,
+.vetAvailable {
+  position: absolute;
+  top: 9rem;
+  height: 3rem;
+}
+.sendFlow2Child {
+  left: 2rem;
+  border-radius: 4px;
+  background-color: #fff;
+  width: 19.5rem;
+}
+.vetAvailable {
+  left: 3rem;
+  font-size: 0.88rem;
+  font-family: Inter;
+  color: #373583;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 9.69rem;
+}
+.address,
+.asset {
+  position: absolute;
+  left: 2rem;
+}
+.asset {
+  top: 7.72rem;
+  font-size: 0.88rem;
+  font-weight: 500;
+  font-family: Inter;
+  color: #373583;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 5.88rem;
+}
+.address {
+  border: 0;
+  background-color: transparent;
+  top: 3rem;
+}
+.change,
+.sendTo,
+.veechainMainNetwork {
+  position: absolute;
+  font-family: Inter;
+  display: flex;
+  align-items: center;
+}
+.sendTo {
+  top: 1.69rem;
+  left: 2rem;
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: #373583;
+  text-align: left;
+  width: 5.88rem;
+}
+.change,
+.veechainMainNetwork {
+  top: 1.81rem;
+  left: 13.63rem;
+  font-size: 0.75rem;
+  color: #807dc0;
+  text-align: right;
+  width: 7.88rem;
+  opacity: 0.7;
+}
+.veechainMainNetwork {
+  top: 7.81rem;
+  left: 11rem;
+  width: 10.5rem;
+}
+.amountInput {
+  left: 2rem;
+  border-radius: 4px;
+  background-color: #fff;
+  width: 10.5rem;
+}
+.amountInput,
+.amountInput1,
+.div,
+.usd1,
+.vet {
+  position: absolute;
+  top: 15rem;
+  height: 3rem;
+}
+.amountInput1 {
+  left: 13rem;
+  border-radius: 4px;
+  background-color: #fff;
+  width: 8.5rem;
+}
+.div,
+.usd1,
+.vet {
+  left: 3rem;
+  font-size: 0.88rem;
+  line-height: 1rem;
+  font-family: Inter;
+  color: #373583;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 5.75rem;
+}
+.usd1,
+.vet {
+  left: 9.5rem;
+  font-size: 0.75rem;
+  color: #807dc0;
+  text-align: center;
+  justify-content: center;
+  width: 3rem;
+}
+.usd1 {
+  left: 18.5rem;
+}
+.amount,
+.div1 {
+  font-size: 0.88rem;
+  color: #373583;
+  text-align: left;
+}
+.div1 {
+  position: absolute;
+  top: 15rem;
+  left: 14rem;
+  line-height: 1rem;
+  font-family: Inter;
+  display: flex;
+  align-items: center;
+  width: 3.5rem;
+  height: 3rem;
+}
+.amount {
+  top: 13.72rem;
+  left: 2rem;
+  font-weight: 500;
+  width: 5.88rem;
+}
+.amount,
+.sendMaximum,
+.transactionFee {
+  position: absolute;
+  font-family: Inter;
+  display: flex;
+  align-items: center;
+}
+.sendMaximum {
+  top: 13.84rem;
+  left: 13.63rem;
+  font-size: 0.75rem;
+  color: #807dc0;
+  text-align: right;
+  width: 7.88rem;
+  opacity: 0.7;
+}
+.transactionFee {
+  top: 19.69rem;
+  left: 2rem;
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: #373583;
+  text-align: left;
+  width: 7.5rem;
+}
+.sendFlow2Item {
+  position: absolute;
+  top: 21.5rem;
+  left: 2rem;
+  border-radius: 4px;
+  background-color: #fff;
+  width: 19.5rem;
+  height: 5.5rem;
+}
+.div2,
+.div3,
+.div4 {
+  position: absolute;
+  font-size: 0.75rem;
+  font-family: Inter;
+  display: flex;
+  align-items: center;
+  height: 1rem;
+}
+.div2 {
+  top: 19.69rem;
+  left: 12.5rem;
+  color: #373583;
+  text-align: center;
+  justify-content: center;
+  width: 2.5rem;
+}
+.div3,
+.div4 {
+  top: 22.81rem;
+  left: 4rem;
+  color: #807dc0;
+  text-align: left;
+  width: 3.5rem;
+  opacity: 0.5;
+}
+.div4 {
+  top: 19.69rem;
+  left: 18rem;
+  text-align: right;
+  width: 2.5rem;
+}
+.slow {
+  top: 25.5rem;
+  left: 3.88rem;
+  font-weight: 500;
+  color: #4944b0;
+  text-align: left;
+  width: 3.5rem;
+}
+.fast,
+.slow,
+.standard {
+  position: absolute;
+  font-size: 0.75rem;
+  font-family: Inter;
+  display: flex;
+  align-items: center;
+}
+.standard {
+  top: 22.75rem;
+  left: 12rem;
+  color: #373583;
+  text-align: center;
+  justify-content: center;
+  width: 3.5rem;
+}
+.fast {
+  top: 25.5rem;
+  left: 18.38rem;
+  font-weight: 500;
+  color: #4944b0;
+  text-align: right;
+  width: 2rem;
+}
+.selectedLine,
+.unselectedLine {
+  position: absolute;
+  top: 24.25rem;
+  left: 3.38rem;
+  border-top: 2px solid #807dc0;
+  box-sizing: border-box;
+  width: 16.56rem;
+  height: 0.13rem;
+}
+.unselectedLine {
+  left: 3.5rem;
+  border-top: 2px solid #3b38d0;
+  width: 8.31rem;
+}
+.slMarkerIcon {
+  position: absolute;
+  top: 23.88rem;
+  left: 3.38rem;
+  width: 0.75rem;
+  height: 0.75rem;
+}
+.fastMarkerIcon,
+.sendFlow2Inner,
+.stdMarkerIcon {
+  position: absolute;
+  top: 24rem;
+  left: 11.5rem;
+  width: 0.5rem;
+  height: 0.5rem;
+}
+.fastMarkerIcon,
+.sendFlow2Inner {
+  left: 19.5rem;
+}
+.sendFlow2Inner {
+  top: 23rem;
+  left: 10.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.brevetHoverChild {
+  position: absolute;
+  top: -0.42rem;
+  left: -0.48rem;
+  border-radius: 4px;
+  background-color: #414093;
+  width: 1.5rem;
+  height: 1.5rem;
+  display: none;
+}
+.pathIcon {
+  position: absolute;
+  height: 67.68%;
+  width: 117.68%;
+  top: 41.16%;
+  right: -8.84%;
+  bottom: -8.84%;
+  left: -8.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.brevetHover,
+.sendFlow2Child1 {
+  position: absolute;
+  top: 10.17rem;
+  left: 19.74rem;
+  width: 0.53rem;
+  height: 0.53rem;
+}
+.sendFlow2Child1 {
+  top: 27.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.fastHotspot,
+.slowHotspot {
+  position: absolute;
+  top: 22rem;
+  left: 2.5rem;
+  width: 4rem;
+  height: 4rem;
+}
+.fastHotspot {
+  left: 17rem;
+}
+.outlineButton,
+.primaryButton {
+  position: absolute;
+  top: 29rem;
+  left: 2rem;
+}
+.primaryButton {
+  left: 12.25rem;
+}
+.send2a,
+.sendFlow2 {
+  background-color: #f8f8f8;
+  overflow: hidden;
+}
+.sendFlow2 {
+  position: absolute;
+  top: 5rem;
+  left: 0;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  width: 23.44rem;
+  height: 32.5rem;
+}
+.send2a {
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 37.5rem;
+  text-align: left;
+  font-size: 0.75rem;
+  color: #fff;
+  font-family: "SF UI Text";
+}

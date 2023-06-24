@@ -1,0 +1,42 @@
+.networkListElementChild {
+    position: absolute;
+    top: 1.5rem;
+    left: 2rem;
+    width: 1rem;
+    height: 1rem;
+  }
+  .ropstenTestNetwork {
+    position: absolute;
+    top: 0;
+    left: 5rem;
+    line-height: 4rem;
+    font-weight: 500;
+    display: inline-block;
+    width: 11.31rem;
+    height: 4rem;
+  }
+  .networkListElement,
+  .tickIcon {
+    position: absolute;
+    overflow: hidden;
+  }
+  .tickIcon {
+    height: 25%;
+    width: 4.27%;
+    top: 37.5%;
+    right: 8.27%;
+    bottom: 37.5%;
+    left: 87.47%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .networkListElement {
+    top: 4rem;
+    left: 0;
+    width: 23.44rem;
+    height: 4rem;
+    text-align: left;
+    font-size: 1rem;
+    color: #373583;
+    font-family: Inter;
+  }

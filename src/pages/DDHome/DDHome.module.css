@@ -1,0 +1,317 @@
+.balanceDisplayBg,
+.balanceDisplayBg1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.balanceDisplayBg1 {
+  height: 100%;
+  bottom: 0;
+  background-color: #4c4aa1;
+}
+.balanceDisplayBg {
+  height: 41.33%;
+  bottom: 58.67%;
+}
+.networkSelectWhite {
+  position: absolute;
+  height: 5.33%;
+  width: 8.53%;
+  top: 4%;
+  right: 16.8%;
+  bottom: 90.67%;
+  left: 74.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ddHomeChild,
+.ddHomeInner,
+.ddHomeItem,
+.lineDiv {
+  position: absolute;
+  top: 20.5rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.ddHomeInner,
+.ddHomeItem,
+.lineDiv {
+  top: 25.5rem;
+}
+.ddHomeInner,
+.lineDiv {
+  top: 15.44rem;
+  left: 1.94rem;
+  border-top: 2px solid #ff7575;
+  width: 2.94rem;
+  height: 0.13rem;
+}
+.lineDiv {
+  top: 30.5rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.assets,
+.history {
+  position: absolute;
+  top: 13.69rem;
+  left: 2rem;
+  line-height: 1.25rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 3.5rem;
+  height: 1rem;
+}
+.history {
+  left: 6.5rem;
+  width: 5rem;
+  opacity: 0.7;
+}
+.hamburgerIcon {
+  position: absolute;
+  top: 1.5rem;
+  left: 20rem;
+  width: 2rem;
+  height: 2rem;
+  overflow: hidden;
+}
+.dailyDriver,
+.x3cdbf32x {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+  height: 1rem;
+}
+.dailyDriver {
+  top: 0;
+  width: 8rem;
+}
+.x3cdbf32x {
+  top: 1.13rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  font-family: "SF UI Text";
+  width: 7.5rem;
+  opacity: 0.8;
+}
+.accountNameBalance {
+  position: absolute;
+  top: 1.5rem;
+  left: 5rem;
+  width: 8rem;
+  height: 2.13rem;
+  font-size: 1rem;
+  font-family: "SF UI Display";
+}
+.usd,
+.vet {
+  position: absolute;
+  left: 2rem;
+  display: flex;
+  align-items: center;
+}
+.usd {
+  top: 7rem;
+  font-size: 2rem;
+  line-height: 2rem;
+  font-weight: 600;
+  width: 13rem;
+  height: 2rem;
+}
+.vet {
+  top: 10rem;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  width: 5rem;
+  height: 1rem;
+  opacity: 0.8;
+}
+.ddHomeChild1 {
+  position: absolute;
+  top: 32.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.tokenPageHoverHotspot {
+  position: absolute;
+  top: 20.5rem;
+  left: 13rem;
+  width: 10.44rem;
+  height: 5rem;
+}
+.accountConnectedIcon {
+  position: absolute;
+  top: 1.5rem;
+  left: 2rem;
+  width: 2.06rem;
+  height: 2.13rem;
+  cursor: pointer;
+}
+.accountsPanelChild,
+.accountsPanelChild1,
+.accountsPanelChild2,
+.accountsPanelInner,
+.accountsPanelItem {
+  position: absolute;
+  top: 12.03rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.accountsPanelChild1,
+.accountsPanelChild2,
+.accountsPanelInner,
+.accountsPanelItem {
+  top: 17.03rem;
+}
+.accountsPanelChild1,
+.accountsPanelChild2,
+.accountsPanelInner {
+  top: 21.97rem;
+}
+.accountsPanelChild1,
+.accountsPanelChild2 {
+  top: 26.97rem;
+}
+.accountsPanelChild2 {
+  top: 31.97rem;
+}
+.selectedTickIcon {
+  position: absolute;
+  top: 8.5rem;
+  left: 20rem;
+  width: 2rem;
+  height: 2rem;
+  overflow: hidden;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f1f1f1;
+  width: 23.44rem;
+  height: 7rem;
+}
+.accountsPanelChild3 {
+  position: absolute;
+  top: 6.97rem;
+  left: 2.31rem;
+  border-top: 2px solid #6ec67a;
+  box-sizing: border-box;
+  width: 2.94rem;
+  height: 0.13rem;
+}
+.accounts {
+  top: 5.19rem;
+  left: 2rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  width: 4.5rem;
+}
+.accountConnected,
+.accounts,
+.connections,
+.streamrnetwork {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 1rem;
+}
+.connections {
+  top: 5.19rem;
+  left: 7.5rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  width: 5.5rem;
+  opacity: 0.3;
+}
+.accountConnected,
+.streamrnetwork {
+  left: 5rem;
+}
+.streamrnetwork {
+  top: 1.5rem;
+  line-height: 1rem;
+  font-weight: 500;
+  width: 16.5rem;
+}
+.accountConnected {
+  top: 2.5rem;
+  font-size: 0.75rem;
+  line-height: 1.25rem;
+  color: #807dc0;
+  width: 15.5rem;
+}
+.ellipseIcon {
+  top: 1.5rem;
+}
+.accConnectedIcon,
+.dataIcon,
+.ellipseIcon {
+  position: absolute;
+  left: 2rem;
+  width: 2rem;
+  height: 2rem;
+}
+.dataIcon {
+  top: 1.5rem;
+  overflow: hidden;
+}
+.accConnectedIcon {
+  top: 8.5rem;
+}
+.accountsPanel {
+  position: absolute;
+  top: 15.5rem;
+  left: 0;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  width: 23.44rem;
+  height: 35rem;
+  overflow: hidden;
+  opacity: 0;
+  color: #373583;
+  font-family: "SF UI Text";
+}
+.newAccount {
+  position: absolute;
+  top: 25.5rem;
+  left: -0.06rem;
+}
+.outlineButton,
+.primaryButton {
+  position: absolute;
+  top: 34rem;
+  left: 2rem;
+}
+.primaryButton {
+  left: 12.25rem;
+}
+.ddHome {
+  position: relative;
+  background-color: #f8f8f8;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 37.5rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 0.88rem;
+  color: #fff;
+  font-family: Inter;
+}

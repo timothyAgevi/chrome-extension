@@ -1,0 +1,710 @@
+.balanceDisplayBg,
+.balanceDisplayBg1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.balanceDisplayBg1 {
+  height: 100%;
+  bottom: 0;
+  background-color: #4c4aa1;
+}
+.balanceDisplayBg {
+  height: 41.33%;
+  bottom: 58.67%;
+}
+.depositButton,
+.transferButton {
+  position: absolute;
+  top: 34rem;
+  left: 12.25rem;
+}
+.depositButton {
+  left: 2rem;
+}
+.tabSelectIndicator {
+  position: absolute;
+  top: 15.44rem;
+  left: 1.94rem;
+  border-top: 2px solid #ff7575;
+  box-sizing: border-box;
+  width: 2.94rem;
+  height: 0.13rem;
+}
+.assets {
+  top: 13.69rem;
+  left: 2rem;
+  line-height: 1.25rem;
+  display: flex;
+  width: 3.5rem;
+  height: 1rem;
+}
+.assets,
+.div,
+.eth,
+.history {
+  position: absolute;
+  align-items: center;
+}
+.history {
+  top: 13.69rem;
+  left: 6.5rem;
+  line-height: 1.25rem;
+  display: flex;
+  width: 5rem;
+  height: 1rem;
+  opacity: 0.7;
+}
+.div,
+.eth {
+  left: 5rem;
+  line-height: 1rem;
+  display: none;
+}
+.eth {
+  top: 1.5rem;
+  font-weight: 600;
+  width: 13.06rem;
+}
+.div {
+  top: 2.5rem;
+  font-size: 0.75rem;
+  color: #807dc0;
+  width: 13.63rem;
+}
+.iconBg32px,
+.tokenListEntry {
+  position: absolute;
+  overflow: hidden;
+  display: none;
+}
+.iconBg32px {
+  height: 40%;
+  width: 8.53%;
+  top: 30%;
+  right: 82.93%;
+  bottom: 30%;
+  left: 8.53%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.tokenListEntry {
+  top: -1.5rem;
+  left: -2rem;
+  width: 23.44rem;
+  height: 5rem;
+}
+.ethAsset,
+.ethIcon {
+  position: absolute;
+  width: 2rem;
+  height: 2rem;
+}
+.ethIcon {
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.ethAsset {
+  top: 17rem;
+  left: 2rem;
+  color: #373583;
+}
+.b,
+.dailyDriver,
+.eth1,
+.x3cdbf32x {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.b {
+  top: 8rem;
+  left: 2rem;
+  font-size: 2rem;
+  line-height: 2rem;
+  width: 13rem;
+  height: 2rem;
+}
+.dailyDriver,
+.eth1,
+.x3cdbf32x {
+  height: 1rem;
+}
+.eth1 {
+  top: 10rem;
+  left: 2rem;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  width: 5rem;
+  opacity: 0.8;
+}
+.dailyDriver,
+.x3cdbf32x {
+  left: 0;
+}
+.dailyDriver {
+  top: 0;
+  font-weight: 600;
+  width: 8rem;
+}
+.x3cdbf32x {
+  top: 1.13rem;
+  font-size: 0.75rem;
+  width: 7.5rem;
+  opacity: 0.8;
+}
+.accountNameBalance {
+  position: absolute;
+  top: 1.5rem;
+  left: 5rem;
+  width: 8rem;
+  height: 2.13rem;
+  font-size: 1rem;
+}
+.accountConnectedIcon,
+.hamburgerIcon {
+  position: absolute;
+  top: 1.5rem;
+  left: 2rem;
+  width: 2.06rem;
+  height: 2.13rem;
+}
+.hamburgerIcon {
+  left: 20rem;
+  width: 2rem;
+  height: 2rem;
+  overflow: hidden;
+}
+.networkSelectWhite {
+  position: absolute;
+  height: 5.33%;
+  width: 8.53%;
+  top: 4%;
+  right: 16.8%;
+  bottom: 90.67%;
+  left: 74.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.newAccount,
+.yourSignatureIs {
+  position: absolute;
+  top: 25.5rem;
+  left: -0.06rem;
+}
+.yourSignatureIs {
+  top: 2.13rem;
+  left: 2rem;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 18.19rem;
+  height: 2rem;
+}
+.approveButtonChild {
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background-color: #3b38d0;
+}
+.approveButton,
+.approveButtonChild,
+.sign {
+  position: absolute;
+  width: 9.25rem;
+  height: 2.5rem;
+}
+.sign {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.approveButton {
+  top: 29rem;
+  left: 12.25rem;
+  text-align: center;
+  color: #fff;
+}
+.denyButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  border: 1px solid #4c4aa1;
+  box-sizing: border-box;
+}
+.cancel,
+.denyButton,
+.denyButtonChild {
+  width: 9.31rem;
+  height: 2.5rem;
+}
+.cancel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.denyButton {
+  top: 29rem;
+  left: 2rem;
+  text-align: center;
+  color: #4c4aa1;
+}
+.denyButton,
+.whiteBg,
+.why {
+  position: absolute;
+}
+.whiteBg {
+  top: 9.5rem;
+  left: 0;
+  background-color: #fff;
+  width: 23.44rem;
+  height: 10rem;
+}
+.why {
+  top: 10.44rem;
+  left: 2.06rem;
+  line-height: 2rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 8.5rem;
+  height: 2.5rem;
+}
+.thisIsA {
+  margin: 0;
+}
+.blankLine {
+  margin: 0;
+  color: #3b38d0;
+}
+.thisIsAContainer {
+  position: absolute;
+  top: 13.06rem;
+  left: 2rem;
+  line-height: 1.25rem;
+  display: inline-block;
+  width: 19.5rem;
+  height: 4.44rem;
+  color: #807dc0;
+}
+.requestSignatureChild {
+  position: absolute;
+  top: 27.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.transactionBg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 2px;
+  background-color: #fff;
+  width: 15rem;
+  height: 1.5rem;
+}
+.ecxoogvinjeoxkrw2fl0uahtidx {
+  position: absolute;
+  top: 0;
+  left: 0.5rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 14.5rem;
+  height: 1.5rem;
+}
+.transactionBgParent {
+  position: absolute;
+  top: 1.5rem;
+  left: 0;
+  width: 15rem;
+  height: 1.5rem;
+}
+.randomDataTo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 10rem;
+  height: 1rem;
+}
+.groupParent {
+  position: absolute;
+  top: 22rem;
+  left: 2rem;
+  width: 15rem;
+  height: 3rem;
+  font-size: 0.75rem;
+}
+.streamrCore,
+.streamrnetworkcore {
+  position: absolute;
+  left: 3rem;
+  height: 1rem;
+}
+.streamrCore {
+  top: 0;
+  line-height: 1rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 8rem;
+}
+.streamrnetworkcore {
+  top: 1rem;
+  font-size: 0.75rem;
+  color: #807dc0;
+  display: flex;
+  align-items: center;
+  width: 10.38rem;
+}
+.streamrCoreParent {
+  position: absolute;
+  top: 5.5rem;
+  left: 2rem;
+  width: 13.38rem;
+  height: 2rem;
+}
+.requestSignature {
+  position: absolute;
+  top: 15.56rem;
+  left: 0;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  width: 23.44rem;
+  height: 32.5rem;
+  overflow: hidden;
+  opacity: 0;
+  color: #373583;
+  font-family: "SF UI Text";
+}
+.sigRequestHotspot {
+  position: absolute;
+  top: 7.5rem;
+  left: 19rem;
+  width: 4.44rem;
+  height: 4rem;
+}
+.dataTokenViewChild {
+  position: absolute;
+  top: 0;
+  left: 10.5rem;
+  width: 12.94rem;
+  height: 5rem;
+}
+.dataTokenViewItem {
+  position: absolute;
+  top: 5rem;
+  left: 0;
+  background-color: #fff;
+  width: 23.44rem;
+  height: 23rem;
+}
+.findHiddenTokens {
+  position: absolute;
+  top: 25.5rem;
+  left: 2rem;
+  line-height: 1rem;
+  display: flex;
+  align-items: center;
+  width: 17.13rem;
+}
+.groupChild,
+.hideToken {
+  position: absolute;
+  height: 1rem;
+}
+.hideToken {
+  top: 24.5rem;
+  left: 2rem;
+  font-size: 0.88rem;
+  line-height: 1rem;
+  font-weight: 500;
+  color: #373583;
+  display: flex;
+  align-items: center;
+  width: 13.5rem;
+}
+.groupChild {
+  top: 0;
+  left: 1.75rem;
+  border-radius: 20px;
+  background-color: #d8d8d8;
+  width: 1.75rem;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.groupItem {
+  position: absolute;
+  top: 0.13rem;
+  left: 0.88rem;
+  width: 0.75rem;
+  height: 0.75rem;
+}
+.rectangleParent,
+.smallToggleOff {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.13rem;
+  width: 1.75rem;
+  height: 1rem;
+}
+.smallToggleOff {
+  top: 24.5rem;
+  left: 19.5rem;
+  width: 2rem;
+  height: 2rem;
+  overflow: hidden;
+}
+.h,
+.m,
+.m1,
+.periodSelectorBg {
+  position: absolute;
+  width: 2.5rem;
+}
+.periodSelectorBg {
+  top: 7.63rem;
+  left: 14rem;
+  border-radius: 2px;
+  background-color: #4c4aa1;
+  height: 1.25rem;
+}
+.h,
+.m,
+.m1 {
+  top: 7.75rem;
+  line-height: 1rem;
+  font-weight: 500;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.h {
+  left: 14rem;
+  color: #fff;
+  height: 1rem;
+}
+.m,
+.m1 {
+  left: 19rem;
+}
+.m1 {
+  left: 16.5rem;
+}
+.dataTokenViewInner {
+  position: absolute;
+  height: 20.77%;
+  width: 82.93%;
+  top: 39.71%;
+  right: 8.27%;
+  bottom: 39.52%;
+  left: 8.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div1,
+.h1 {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.h1 {
+  top: 2.13rem;
+  width: 10rem;
+}
+.div1 {
+  top: 0;
+  font-size: 1.5rem;
+  font-family: "SF UI Display";
+  color: #373583;
+  width: 9.5rem;
+  height: 2.5rem;
+}
+.hParent,
+.transferButton1 {
+  position: absolute;
+  top: 5.69rem;
+  left: 2rem;
+  width: 10rem;
+  height: 3rem;
+  color: #6ec67a;
+}
+.transferButton1 {
+  top: 29rem;
+  left: 12.25rem;
+  width: 9.25rem;
+  height: 2.5rem;
+  text-align: center;
+  font-size: 0.88rem;
+  color: #fff;
+}
+.data,
+.depositButton1 {
+  position: absolute;
+  left: 2rem;
+}
+.depositButton1 {
+  top: 29rem;
+  width: 9.31rem;
+  height: 2.5rem;
+  text-align: center;
+  font-size: 0.88rem;
+  color: #4c4aa1;
+}
+.data {
+  top: 1.44rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #373583;
+  display: flex;
+  align-items: center;
+  width: 9.13rem;
+}
+.h3 {
+  color: #6ec67a;
+}
+.hTxt {
+  line-break: anywhere;
+  width: 100%;
+}
+.h2,
+.lineDiv {
+  position: absolute;
+}
+.h2 {
+  top: 2.81rem;
+  left: 2rem;
+  display: flex;
+  align-items: center;
+  width: 9.88rem;
+}
+.lineDiv {
+  top: 22.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.dataTokenView {
+  position: absolute;
+  top: 15.5rem;
+  left: 0;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  width: 23.44rem;
+  height: 32.5rem;
+  overflow: hidden;
+  opacity: 0;
+  font-size: 0.75rem;
+  color: #807dc0;
+  font-family: "SF UI Text";
+}
+.homeRuleA,
+.homeRuleB,
+.homeRuleC,
+.homeRuleD {
+  position: absolute;
+  top: 30.47rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.homeRuleA,
+.homeRuleB,
+.homeRuleC {
+  top: 32.97rem;
+}
+.homeRuleA,
+.homeRuleB {
+  top: 25.5rem;
+}
+.homeRuleA {
+  top: 20.5rem;
+}
+.signingTokensHome {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f8f8f8;
+  width: 23.44rem;
+  height: 37.5rem;
+  overflow: hidden;
+}
+.div2,
+.vet {
+  position: absolute;
+  left: 5.19rem;
+  line-height: 1rem;
+  display: flex;
+  align-items: center;
+}
+.vet {
+  top: 17.13rem;
+  font-weight: 600;
+  color: #373583;
+  width: 13.06rem;
+}
+.div2 {
+  top: 18.13rem;
+  font-size: 0.75rem;
+  color: #807dc0;
+  width: 13.63rem;
+}
+.iconBg32px1,
+.layer3Icon {
+  position: absolute;
+  height: 5.33%;
+  width: 8.53%;
+  top: 45.67%;
+  right: 82.13%;
+  bottom: 49%;
+  left: 9.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.layer3Icon {
+  height: 3.14%;
+  width: 5.33%;
+  top: 47.17%;
+  right: 84%;
+  bottom: 49.69%;
+  left: 10.67%;
+}
+.home {
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 36rem;
+  text-align: left;
+  font-size: 0.88rem;
+  color: #fff;
+  font-family: Inter;
+}

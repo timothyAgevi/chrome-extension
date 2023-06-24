@@ -1,0 +1,739 @@
+.balanceDisplayBg,
+.balanceDisplayBg1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.balanceDisplayBg1 {
+  height: 100%;
+  bottom: 0;
+  background-color: #4c4aa1;
+}
+.balanceDisplayBg {
+  height: 41.33%;
+  bottom: 58.67%;
+}
+.transferButtonChild {
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background-color: #3b38d0;
+}
+.transfer,
+.transferButton,
+.transferButtonChild {
+  position: absolute;
+  width: 9.25rem;
+  height: 2.5rem;
+}
+.transfer {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.transferButton {
+  top: 34rem;
+  left: 12.25rem;
+  text-align: center;
+}
+.depositButtonChild {
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  border: 1px solid #4c4aa1;
+  box-sizing: border-box;
+}
+.deposit,
+.depositButton,
+.depositButtonChild {
+  position: absolute;
+  width: 9.31rem;
+  height: 2.5rem;
+}
+.deposit {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.depositButton {
+  top: 34rem;
+  left: 2rem;
+  text-align: center;
+  color: #4c4aa1;
+}
+.homeRuleC,
+.tabSelectIndicator {
+  position: absolute;
+  top: 33.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.tabSelectIndicator {
+  top: 15.47rem;
+  left: 6.5rem;
+  border-top: 2px solid #ff7575;
+  width: 2.94rem;
+  height: 0.13rem;
+}
+.assets,
+.history {
+  top: 13.69rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  height: 1rem;
+}
+.assets {
+  position: absolute;
+  left: 2rem;
+  display: flex;
+  align-items: center;
+  width: 3.5rem;
+  opacity: 0.3;
+}
+.history {
+  left: 6.5rem;
+  width: 5rem;
+}
+.dailyDriver,
+.div,
+.eth,
+.history,
+.x3cdbf32x {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.div {
+  top: 8rem;
+  left: 2rem;
+  font-size: 2rem;
+  line-height: 2rem;
+  font-family: "SF UI Display";
+  width: 13rem;
+  height: 2rem;
+}
+.dailyDriver,
+.eth,
+.x3cdbf32x {
+  height: 1rem;
+}
+.eth {
+  top: 10rem;
+  left: 2rem;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-weight: 500;
+  width: 5rem;
+  opacity: 0.8;
+}
+.dailyDriver,
+.x3cdbf32x {
+  left: 0;
+}
+.dailyDriver {
+  top: 0;
+  width: 8rem;
+}
+.x3cdbf32x {
+  top: 1.13rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  font-family: "SF UI Text";
+  width: 7.5rem;
+  opacity: 0.8;
+}
+.accountConnectedIcon,
+.accountNameBalance {
+  position: absolute;
+  top: 1.5rem;
+  height: 2.13rem;
+  opacity: 0.3;
+}
+.accountNameBalance {
+  left: 5rem;
+  width: 8rem;
+  font-size: 1rem;
+  font-family: "SF UI Display";
+}
+.accountConnectedIcon {
+  left: 2rem;
+  width: 2.06rem;
+}
+.networkSelectWhite,
+.xCloseGrey {
+  position: absolute;
+  overflow: hidden;
+}
+.xCloseGrey {
+  top: 1.5rem;
+  left: 20rem;
+  width: 2rem;
+  height: 2rem;
+}
+.networkSelectWhite {
+  height: 5.33%;
+  width: 8.53%;
+  top: 4%;
+  right: 16.8%;
+  bottom: 90.67%;
+  left: 74.67%;
+  max-width: 100%;
+  max-height: 100%;
+  opacity: 0.3;
+}
+.depositSheetChild,
+.depositSheetInner,
+.depositSheetItem,
+.lineDiv {
+  position: absolute;
+  top: 6.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.depositSheetInner,
+.depositSheetItem,
+.lineDiv {
+  top: 19.97rem;
+}
+.depositSheetInner,
+.lineDiv {
+  top: 30.97rem;
+}
+.lineDiv {
+  top: 42.47rem;
+}
+.depositEth {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  color: #373583;
+}
+.toUseDecentralized {
+  margin: 0;
+  line-height: 1rem;
+}
+.depositEthToContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.depositEthToContainer,
+.directDepositIfContainer {
+  position: absolute;
+  top: 0.69rem;
+  left: 2rem;
+  display: flex;
+  align-items: center;
+  width: 19.5rem;
+  height: 5rem;
+}
+.directDepositIfContainer {
+  top: 7rem;
+}
+.buyEthWithContainer {
+  top: 20.69rem;
+  left: 2rem;
+  width: 19.5rem;
+  height: 5rem;
+}
+.buyEthOnContainer,
+.buyEthWithContainer,
+.dailyDriver1,
+.x3cdbf32x1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.buyEthOnContainer {
+  top: 32.13rem;
+  left: 2rem;
+  width: 19.5rem;
+  height: 5rem;
+}
+.dailyDriver1,
+.x3cdbf32x1 {
+  left: 0;
+  height: 1rem;
+}
+.dailyDriver1 {
+  top: 0;
+  width: 5rem;
+}
+.x3cdbf32x1 {
+  top: 1.13rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  font-family: "SF UI Text";
+  color: #807dc0;
+  width: 7.5rem;
+}
+.accountNameBalance1 {
+  position: absolute;
+  top: 0;
+  left: 3rem;
+  width: 7.5rem;
+  height: 2.13rem;
+}
+.idntcn1Icon {
+  position: absolute;
+  top: 0.45rem;
+  left: 0.4rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.accountMenu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2rem;
+  height: 2rem;
+}
+.accountNameBalanceParent {
+  position: absolute;
+  top: 12.5rem;
+  left: 10rem;
+  width: 10.5rem;
+  height: 2.13rem;
+  font-size: 1rem;
+  color: #373583;
+  font-family: "SF UI Display";
+}
+.exportKeyButtonChild {
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background-color: #fff;
+}
+.copyAddress,
+.exportKeyButton,
+.exportKeyButtonChild {
+  position: absolute;
+  width: 9rem;
+  height: 2.5rem;
+}
+.copyAddress {
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.exportKeyButton {
+  top: 16rem;
+  left: 10rem;
+  text-align: center;
+  font-size: 0.88rem;
+  color: #373583;
+}
+.mmQr1Icon {
+  position: absolute;
+  top: 12rem;
+  left: 1.5rem;
+  width: 7rem;
+  height: 7rem;
+  overflow: hidden;
+}
+.groupChild,
+.groupIcon {
+  position: absolute;
+  width: 7.5rem;
+  height: 2.5rem;
+}
+.groupIcon {
+  top: 26.5rem;
+  left: 2rem;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background-color: #eee;
+}
+.coinswitchIcon {
+  position: absolute;
+  top: 0.94rem;
+  left: 0.94rem;
+  width: 5.63rem;
+  height: 0.63rem;
+}
+.rectangleParent,
+.visitCoinswitch,
+.visitWyre {
+  position: absolute;
+  top: 38rem;
+  left: 2rem;
+  width: 7.5rem;
+  height: 2.5rem;
+}
+.visitCoinswitch,
+.visitWyre {
+  top: 26.5rem;
+  left: 10.5rem;
+  font-size: 0.88rem;
+  line-height: 1.25rem;
+  color: #3b38d0;
+  display: flex;
+  align-items: center;
+  width: 6.38rem;
+}
+.visitCoinswitch {
+  top: 38rem;
+  width: 9.5rem;
+}
+.depositSheet {
+  position: absolute;
+  height: 117.5%;
+  width: 100%;
+  top: 41.33%;
+  right: 0;
+  bottom: -58.83%;
+  left: 0;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  opacity: 0;
+  font-size: 0.75rem;
+  color: #807dc0;
+}
+.addRecipient {
+  position: absolute;
+  top: 1.69rem;
+  left: 2rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 10.25rem;
+}
+.searchChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background-color: #fff;
+  width: 19.5rem;
+  height: 3rem;
+}
+.contactsPublicAddresses {
+  position: absolute;
+  top: 0;
+  left: 1.25rem;
+  display: flex;
+  align-items: center;
+  width: 15.06rem;
+  height: 3rem;
+  opacity: 0.5;
+}
+.searchItem {
+  position: absolute;
+  top: 0.78rem;
+  left: 0.97rem;
+  border-right: 1px solid #4c4aa1;
+  box-sizing: border-box;
+  width: 0.06rem;
+  height: 1.5rem;
+}
+.qrScanIcon {
+  position: absolute;
+  height: 39.06%;
+  width: 6.01%;
+  top: 31.25%;
+  right: 5.21%;
+  bottom: 29.69%;
+  left: 88.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cancelButton,
+.search {
+  position: absolute;
+  top: 3rem;
+  left: 2rem;
+  width: 19.5rem;
+  height: 3rem;
+  color: #807dc0;
+}
+.cancelButton {
+  top: 29rem;
+  width: 9.31rem;
+  height: 2.5rem;
+  text-align: center;
+  color: #4c4aa1;
+}
+.sendFlow1Child {
+  position: absolute;
+  top: 27.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.nextButton {
+  position: absolute;
+  top: 29rem;
+  left: 12.25rem;
+  width: 9.25rem;
+  height: 2.5rem;
+  text-align: center;
+  color: #fff;
+}
+.sendFlow1 {
+  position: absolute;
+  top: 15.5rem;
+  left: 0;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  width: 23.44rem;
+  height: 32.5rem;
+  opacity: 0;
+  color: #373583;
+}
+.transactionDetailSheetChild,
+.transactionDetailSheetItem {
+  position: absolute;
+  top: 8.03rem;
+  left: 1.97rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 19.56rem;
+  height: 0.06rem;
+}
+.transactionDetailSheetItem {
+  top: 10.47rem;
+}
+.from {
+  font-weight: 500;
+}
+.xc5261b045d {
+  color: #807dc0;
+}
+.from0xc5261b045dToContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 2rem;
+  display: flex;
+  align-items: center;
+  width: 19.5rem;
+  height: 2.5rem;
+}
+.activity,
+.details,
+.transactionAddresses {
+  position: absolute;
+  top: 8rem;
+  left: 2rem;
+  width: 19.5rem;
+  height: 2.5rem;
+}
+.activity,
+.details {
+  top: 20.94rem;
+  font-size: 0.81rem;
+  line-height: 2rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 11.81rem;
+}
+.details {
+  top: 5.44rem;
+  line-height: 2.5rem;
+  width: 8.5rem;
+}
+.blankLine {
+  margin: 0;
+}
+.confirmed1121532020Container,
+.created1120532020Container {
+  position: absolute;
+  top: 23.44rem;
+  left: 2rem;
+  line-height: 2.5rem;
+  color: #3b38d0;
+  display: inline-block;
+  width: 19rem;
+  height: 2.5rem;
+}
+.confirmed1121532020Container {
+  top: 28.44rem;
+  left: 2.06rem;
+}
+.transactionDetailSheetChild1,
+.transactionDetailSheetChild2,
+.transactionDetailSheetInner {
+  position: absolute;
+  top: 30.97rem;
+  left: 1.97rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 19.56rem;
+  height: 0.06rem;
+}
+.transactionDetailSheetChild1,
+.transactionDetailSheetChild2 {
+  top: 23.47rem;
+}
+.transactionDetailSheetChild2 {
+  top: 25.97rem;
+}
+.transactionDetailSheetChild3,
+.transactionDetailSheetChild4,
+.transactionDetailSheetChild5,
+.transactionDetailSheetChild6 {
+  position: absolute;
+  top: 28.47rem;
+  left: 1.97rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 19.56rem;
+  height: 0.06rem;
+}
+.transactionDetailSheetChild4,
+.transactionDetailSheetChild5,
+.transactionDetailSheetChild6 {
+  top: 15.47rem;
+}
+.transactionDetailSheetChild5,
+.transactionDetailSheetChild6 {
+  top: 17.97rem;
+}
+.transactionDetailSheetChild6 {
+  top: 12.97rem;
+}
+.amount,
+.transactionListItem {
+  position: absolute;
+  height: 2.5rem;
+}
+.amount {
+  top: 0;
+  left: 0;
+  line-height: 2rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 8.5rem;
+}
+.transactionListItem {
+  top: 10.5rem;
+  left: 2rem;
+  width: 19.5rem;
+  overflow: hidden;
+}
+.transactionListItem1 {
+  top: 13rem;
+  left: 2rem;
+  width: 19.5rem;
+  overflow: hidden;
+}
+.gwei,
+.transactionListItem1,
+.transactionListItem2 {
+  position: absolute;
+  height: 2.5rem;
+}
+.gwei {
+  top: 0;
+  left: 10.19rem;
+  line-height: 2.5rem;
+  color: #807dc0;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 9.31rem;
+}
+.transactionListItem2 {
+  top: 15.5rem;
+  left: 2rem;
+  width: 19.5rem;
+  overflow: hidden;
+}
+.eth5230 {
+  position: absolute;
+  top: 0;
+  left: 10.19rem;
+  line-height: 2.5rem;
+  font-weight: 500;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 9.31rem;
+  height: 2.5rem;
+}
+.transactionListItem3 {
+  position: absolute;
+  top: 18rem;
+  left: 2.06rem;
+  width: 19.5rem;
+  height: 2.5rem;
+  overflow: hidden;
+}
+.submitted1121532020Container {
+  position: absolute;
+  top: 25.94rem;
+  left: 2rem;
+  line-height: 2.5rem;
+  color: #3b38d0;
+  display: inline-block;
+  width: 19rem;
+  height: 2.5rem;
+}
+.externalLinkIcon,
+.transactionDetailSheet {
+  position: absolute;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.externalLinkIcon {
+  height: 6.15%;
+  width: 8.53%;
+  top: 16.92%;
+  right: 8.27%;
+  bottom: 76.92%;
+  left: 83.2%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.transactionDetailSheet {
+  top: 5rem;
+  left: 0;
+  background-color: #f8f8f8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  width: 23.44rem;
+  height: 32.5rem;
+  font-size: 0.75rem;
+  color: #373583;
+  font-family: Inter;
+}
+.transactionDetails {
+  position: relative;
+  background-color: #f8f8f8;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 37.5rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 0.88rem;
+  color: #fff;
+  font-family: "SF UI Text";
+}

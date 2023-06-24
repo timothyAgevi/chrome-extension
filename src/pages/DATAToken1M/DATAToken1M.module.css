@@ -1,0 +1,385 @@
+.balanceDisplayBg,
+.balanceDisplayBg1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.balanceDisplayBg1 {
+  height: 100%;
+  bottom: 0;
+  background-color: #4c4aa1;
+}
+.balanceDisplayBg {
+  height: 41.33%;
+  bottom: 58.67%;
+}
+.depositButton,
+.transferButton {
+  position: absolute;
+  top: 34rem;
+  left: 12.25rem;
+}
+.depositButton {
+  left: 2rem;
+}
+.homeRuleA,
+.homeRuleB,
+.homeRuleC,
+.tabSelectIndicator {
+  position: absolute;
+  top: 32.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.homeRuleA,
+.homeRuleB,
+.tabSelectIndicator {
+  top: 25.5rem;
+}
+.homeRuleA,
+.tabSelectIndicator {
+  top: 20.5rem;
+}
+.tabSelectIndicator {
+  top: 15.47rem;
+  left: 1.94rem;
+  border-top: 2px solid #ff7575;
+  width: 2.94rem;
+  height: 0.13rem;
+}
+.assets,
+.history {
+  top: 13.69rem;
+  font-size: 0.88rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  height: 1rem;
+}
+.assets {
+  position: absolute;
+  left: 2rem;
+  display: flex;
+  align-items: center;
+  width: 3.5rem;
+}
+.history {
+  left: 6.5rem;
+  width: 5rem;
+  opacity: 0.3;
+}
+.dailyDriver,
+.div,
+.eth,
+.history,
+.x3cdbf32x {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.div {
+  top: 8rem;
+  left: 2rem;
+  font-size: 2rem;
+  line-height: 2rem;
+  font-family: "SF UI Display";
+  width: 13rem;
+  height: 2rem;
+}
+.dailyDriver,
+.eth,
+.x3cdbf32x {
+  height: 1rem;
+}
+.eth {
+  top: 10rem;
+  left: 2rem;
+  line-height: 1rem;
+  font-weight: 500;
+  width: 5rem;
+  opacity: 0.8;
+}
+.dailyDriver,
+.x3cdbf32x {
+  left: 5rem;
+  font-family: Inter;
+}
+.dailyDriver {
+  top: 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  width: 8rem;
+}
+.x3cdbf32x {
+  top: 2.63rem;
+  width: 7.5rem;
+  opacity: 0.8;
+}
+.accountConnectedIcon,
+.tokenPageCloseHover {
+  position: absolute;
+  top: 1.5rem;
+  left: 2rem;
+  width: 2.06rem;
+  height: 2.13rem;
+}
+.tokenPageCloseHover {
+  left: 20rem;
+  width: 2rem;
+  height: 2rem;
+  overflow: hidden;
+}
+.networkSelectWhite {
+  position: absolute;
+  height: 5.33%;
+  width: 8.53%;
+  top: 4%;
+  right: 16.8%;
+  bottom: 90.67%;
+  left: 74.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.3;
+}
+.homeRuleD {
+  position: absolute;
+  top: 30.47rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.dataTokenViewChild {
+  position: absolute;
+  top: 0;
+  left: 10.5rem;
+  width: 12.94rem;
+  height: 5rem;
+}
+.dataTokenViewItem {
+  position: absolute;
+  top: 5rem;
+  left: 0;
+  background-color: #fff;
+  width: 23.44rem;
+  height: 27.5rem;
+}
+.findHiddenTokens {
+  position: absolute;
+  top: 25.5rem;
+  left: 2rem;
+  line-height: 1rem;
+  display: flex;
+  align-items: center;
+  width: 17.13rem;
+}
+.groupChild,
+.hideToken {
+  position: absolute;
+  height: 1rem;
+}
+.hideToken {
+  top: 24.5rem;
+  left: 2rem;
+  font-size: 0.88rem;
+  line-height: 1rem;
+  color: #373583;
+  display: flex;
+  align-items: center;
+  width: 13.5rem;
+}
+.groupChild {
+  top: 0;
+  left: 1.75rem;
+  border-radius: 20px;
+  background-color: #d8d8d8;
+  width: 1.75rem;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.groupItem {
+  position: absolute;
+  top: -0.12rem;
+  left: -0.12rem;
+  width: 1.25rem;
+  height: 1.25rem;
+}
+.rectangleParent,
+.smallToggleOff {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.13rem;
+  width: 1.75rem;
+  height: 1rem;
+}
+.smallToggleOff {
+  top: 24.5rem;
+  left: 19.5rem;
+  width: 2rem;
+  height: 2rem;
+  overflow: hidden;
+}
+.h,
+.m,
+.m1,
+.periodSelectorBg {
+  position: absolute;
+  width: 2.5rem;
+}
+.periodSelectorBg {
+  top: 7.63rem;
+  left: 16.5rem;
+  border-radius: 2px;
+  background-color: #4c4aa1;
+  height: 1.25rem;
+}
+.h,
+.m,
+.m1 {
+  top: 7.75rem;
+  line-height: 1rem;
+  font-weight: 500;
+  font-family: "SF UI Text";
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.h {
+  left: 14rem;
+  height: 1rem;
+}
+.m,
+.m1 {
+  left: 19rem;
+}
+.m1 {
+  left: 16.5rem;
+  color: #fff;
+}
+.sparklineNIcon {
+  position: absolute;
+  top: 11.88rem;
+  left: 0;
+  width: 27.5rem;
+  height: 10rem;
+}
+.div1,
+.m2 {
+  position: absolute;
+  top: 7.81rem;
+  left: 2rem;
+  color: #6ec67a;
+  display: flex;
+  align-items: center;
+  width: 10rem;
+}
+.div1 {
+  top: 5.5rem;
+  left: 2.06rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #373583;
+  width: 9.5rem;
+  height: 2.5rem;
+}
+.primaryButton {
+  position: absolute;
+  top: 28.81rem;
+  left: 12.44rem;
+}
+.deposit {
+  position: relative;
+  font-size: 0.88rem;
+  line-height: 2.5rem;
+  font-weight: 500;
+  font-family: Inter;
+  color: #4c4aa1;
+  text-align: center;
+}
+.outlineButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 28.81rem;
+  left: 2.19rem;
+}
+.dataTokenViewInner,
+.lineDiv {
+  position: absolute;
+  top: 22.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.lineDiv {
+  top: 27.97rem;
+}
+.groupIcon {
+  position: absolute;
+  height: 6.15%;
+  width: 8.53%;
+  top: 4.62%;
+  right: 82.93%;
+  bottom: 89.23%;
+  left: 8.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.data,
+.div2 {
+  position: absolute;
+  left: 5rem;
+  display: flex;
+  align-items: center;
+}
+.data {
+  top: 1.5rem;
+  font-size: 0.88rem;
+  line-height: 1rem;
+  font-weight: 600;
+  color: #373583;
+  width: 13.06rem;
+}
+.div2 {
+  top: 2.5rem;
+  width: 13.63rem;
+  height: 1rem;
+}
+.dataToken1m,
+.dataTokenView {
+  background-color: #f8f8f8;
+  overflow: hidden;
+}
+.dataTokenView {
+  position: absolute;
+  top: 5rem;
+  left: 0;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  width: 23.44rem;
+  height: 32.5rem;
+  color: #807dc0;
+  font-family: Inter;
+}
+.dataToken1m {
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 37.5rem;
+  text-align: left;
+  font-size: 0.75rem;
+  color: #fff;
+  font-family: "SF UI Text";
+}

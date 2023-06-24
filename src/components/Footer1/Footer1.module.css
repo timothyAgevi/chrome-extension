@@ -1,0 +1,43 @@
+.importAccount1 {
+    position: absolute;
+    top: 0;
+    left: 5rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 14.81rem;
+    height: 5rem;
+  }
+  .accountFunctionListEntryChild {
+    position: absolute;
+    top: 1.5rem;
+    left: 2rem;
+    width: 2rem;
+    height: 2rem;
+  }
+  .accountFunctionListEntry {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 23.44rem;
+    height: 5rem;
+    overflow: hidden;
+  }
+  .importAccountChild {
+    position: absolute;
+    top: 2.06rem;
+    left: 2.63rem;
+    width: 0.71rem;
+    height: 0.93rem;
+  }
+  .importAccount {
+    position: absolute;
+    top: 17rem;
+    left: 0;
+    width: 23.44rem;
+    height: 5rem;
+    text-align: left;
+    font-size: 0.88rem;
+    color: #373583;
+    font-family: "SF UI Text";
+  }

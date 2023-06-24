@@ -1,0 +1,22 @@
+{
+    "name": "Crypsense Extension",
+    "description": "Crypsense Extension Wallet made with love by https://github.com/timothyAgevi",
+    "version": "1.0",
+    "author": "timothyAgevi",
+    "manifest_version": 3,
+    "action": {
+      "default_title": "Crypsense Wallet Extension",
+      "default_popup": "index.html",
+      "default_icon": {
+        "16": "group.svg",
+        "128": "group.svg"
+      }
+    },
+    "icons": {
+      "16": "group.svg",
+      "48": "group-1000003011.svg",
+      "128": "group-10000030111.svg",
+      "192": "group-10000030112.svg"
+    }
+  }
+  

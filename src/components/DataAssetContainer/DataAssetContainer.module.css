@@ -1,0 +1,58 @@
+.data,
+.div {
+  position: absolute;
+  left: 5rem;
+  display: flex;
+  align-items: center;
+}
+.data {
+  top: 1.5rem;
+  line-height: 1rem;
+  font-weight: 600;
+  width: 13.06rem;
+}
+.div {
+  top: 2.56rem;
+  font-size: 0.75rem;
+  color: #807dc0;
+  width: 13.63rem;
+}
+.iconBg32px {
+  height: 40%;
+  width: 8.53%;
+  top: 30%;
+  right: 82.93%;
+  bottom: 30%;
+  left: 8.53%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.dataIcon,
+.dataListEntry,
+.iconBg32px {
+  position: absolute;
+  overflow: hidden;
+}
+.dataListEntry {
+  top: 0;
+  left: 0;
+  width: 23.44rem;
+  height: 5rem;
+}
+.dataIcon {
+  top: 1.5rem;
+  left: 2rem;
+  width: 2rem;
+  height: 2rem;
+}
+.dataAsset {
+  position: absolute;
+  top: 20.5rem;
+  left: 0;
+  width: 23.44rem;
+  height: 5rem;
+  text-align: left;
+  font-size: 0.88rem;
+  color: #373583;
+  font-family: Inter;
+}

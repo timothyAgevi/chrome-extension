@@ -1,0 +1,462 @@
+.balanceDisplayBg,
+.balanceDisplayBg1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.balanceDisplayBg1 {
+  height: 100%;
+  bottom: 0;
+  background-color: #4c4aa1;
+}
+.balanceDisplayBg {
+  height: 41.33%;
+  bottom: 58.67%;
+}
+.networkSelectWhite {
+  position: absolute;
+  height: 5.33%;
+  width: 8.53%;
+  top: 4%;
+  right: 16.8%;
+  bottom: 90.67%;
+  left: 74.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.esHomeChild,
+.esHomeInner,
+.esHomeItem,
+.lineDiv {
+  position: absolute;
+  top: 20.5rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.esHomeInner,
+.esHomeItem,
+.lineDiv {
+  top: 25.5rem;
+}
+.esHomeInner,
+.lineDiv {
+  top: 30.47rem;
+}
+.lineDiv {
+  top: 15.44rem;
+  left: 1.94rem;
+  border-top: 2px solid #ff7575;
+  width: 2.94rem;
+  height: 0.13rem;
+}
+.assets,
+.history {
+  position: absolute;
+  top: 13.69rem;
+  left: 2rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  font-family: "SF UI Text";
+  display: flex;
+  align-items: center;
+  width: 3.5rem;
+  height: 1rem;
+}
+.history {
+  left: 6.5rem;
+  width: 5rem;
+  opacity: 0.7;
+}
+.hamburgerIcon {
+  position: absolute;
+  top: 1.5rem;
+  left: 20rem;
+  width: 2rem;
+  height: 2rem;
+  overflow: hidden;
+}
+.amisiKevin {
+  top: 1.5rem;
+  left: 5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  width: 8rem;
+  height: 1rem;
+}
+.amisiKevin,
+.usd,
+.vet,
+.x7gba0bxd {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.x7gba0bxd {
+  top: 2.63rem;
+  left: 5rem;
+  font-size: 0.75rem;
+  width: 7.5rem;
+  height: 1rem;
+  opacity: 0.8;
+}
+.usd,
+.vet {
+  left: 2rem;
+}
+.usd {
+  top: 7.25rem;
+  font-size: 2rem;
+  line-height: 2rem;
+  font-weight: 600;
+  width: 16.5rem;
+  height: 2rem;
+}
+.vet {
+  top: 10rem;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  width: 6.19rem;
+  height: 1rem;
+  opacity: 0.8;
+}
+.esHomeChild1 {
+  position: absolute;
+  top: 32.97rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.brevetHoverChild {
+  position: absolute;
+  top: -0.42rem;
+  left: -0.48rem;
+  border-radius: 4px;
+  background-color: #414093;
+  width: 1.5rem;
+  height: 1.5rem;
+  display: none;
+}
+.pathIcon {
+  position: absolute;
+  height: 70.71%;
+  width: 70.71%;
+  top: 0;
+  right: -20.71%;
+  bottom: 29.29%;
+  left: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.brevetHover {
+  position: absolute;
+  top: 8.67rem;
+  left: 16.24rem;
+  width: 0.53rem;
+  height: 0.53rem;
+  display: none;
+}
+.connectAccountHotspot,
+.signTransactionHotspot {
+  position: absolute;
+  top: 27.5rem;
+  left: 2rem;
+  width: 8.75rem;
+  height: 3.13rem;
+}
+.signTransactionHotspot {
+  left: 12.5rem;
+  width: 8.5rem;
+  height: 3.44rem;
+}
+.tokenPageHoverHotspot {
+  position: absolute;
+  top: 20.5rem;
+  left: 13rem;
+  width: 10.44rem;
+  height: 5rem;
+}
+.accountConnectedIcon {
+  position: absolute;
+  top: 1.5rem;
+  left: 2rem;
+  width: 2.06rem;
+  height: 2.13rem;
+  cursor: pointer;
+}
+.accountsPanelChild,
+.accountsPanelChild1,
+.accountsPanelChild2,
+.accountsPanelInner,
+.accountsPanelItem {
+  position: absolute;
+  top: 12.03rem;
+  left: -0.03rem;
+  border-top: 1px solid #e4e3ff;
+  box-sizing: border-box;
+  width: 23.5rem;
+  height: 0.06rem;
+}
+.accountsPanelChild1,
+.accountsPanelChild2,
+.accountsPanelInner,
+.accountsPanelItem {
+  top: 17.03rem;
+}
+.accountsPanelChild1,
+.accountsPanelChild2,
+.accountsPanelInner {
+  top: 21.97rem;
+}
+.accountsPanelChild1,
+.accountsPanelChild2 {
+  top: 26.97rem;
+}
+.accountsPanelChild2 {
+  top: 31.97rem;
+}
+.selectedTickIcon {
+  position: absolute;
+  top: 8.5rem;
+  left: 20rem;
+  width: 2rem;
+  height: 2rem;
+  overflow: hidden;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f1f1f1;
+  width: 23.44rem;
+  height: 7rem;
+}
+.accountsPanelChild3 {
+  position: absolute;
+  top: 6.97rem;
+  left: 2.31rem;
+  border-top: 2px solid #6ec67a;
+  box-sizing: border-box;
+  width: 2.94rem;
+  height: 0.13rem;
+}
+.accounts {
+  top: 5.19rem;
+  left: 2rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  width: 4.5rem;
+}
+.accountConnected,
+.accounts,
+.connections,
+.streamrnetwork {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 1rem;
+}
+.connections {
+  top: 5.19rem;
+  left: 7.5rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  width: 5.5rem;
+  opacity: 0.3;
+}
+.accountConnected,
+.streamrnetwork {
+  left: 5rem;
+}
+.streamrnetwork {
+  top: 1.5rem;
+  line-height: 1rem;
+  font-weight: 500;
+  width: 21.44rem;
+}
+.accountConnected {
+  top: 2.5rem;
+  font-size: 0.75rem;
+  line-height: 1.25rem;
+  color: #807dc0;
+  width: 15.5rem;
+}
+.ellipseIcon {
+  top: 1.5rem;
+}
+.accConnectedIcon,
+.dataIcon,
+.ellipseIcon {
+  position: absolute;
+  left: 2rem;
+  width: 2rem;
+  height: 2rem;
+}
+.dataIcon {
+  top: 1.5rem;
+  overflow: hidden;
+}
+.accConnectedIcon {
+  top: 8.5rem;
+}
+.accountsPanel {
+  position: absolute;
+  top: 15.5rem;
+  left: 0;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  width: 23.44rem;
+  height: 35rem;
+  overflow: hidden;
+  opacity: 0;
+  color: #373583;
+  font-family: "SF UI Text";
+}
+.outlineButton,
+.primaryButton {
+  position: absolute;
+  top: 34rem;
+  left: 2rem;
+}
+.primaryButton {
+  left: 12.25rem;
+}
+.div,
+.vet1 {
+  position: absolute;
+  left: 5rem;
+  line-height: 1rem;
+  display: flex;
+  align-items: center;
+}
+.vet1 {
+  top: 17rem;
+  font-weight: 600;
+  color: #373583;
+  width: 7.81rem;
+}
+.div {
+  top: 18rem;
+  font-size: 0.75rem;
+  color: #807dc0;
+  width: 13.63rem;
+}
+.iconBg32px {
+  position: absolute;
+  height: 5.33%;
+  width: 8.53%;
+  top: 45.33%;
+  right: 82.93%;
+  bottom: 49.33%;
+  left: 8.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div1,
+.vetThor {
+  position: absolute;
+  left: 5rem;
+  line-height: 1rem;
+  display: flex;
+  align-items: center;
+}
+.vetThor {
+  top: 22.06rem;
+  font-weight: 600;
+  color: #373583;
+  width: 7.81rem;
+}
+.div1 {
+  top: 23.06rem;
+  font-size: 0.75rem;
+  color: #807dc0;
+  width: 13.63rem;
+}
+.iconBg32px1 {
+  position: absolute;
+  height: 5.33%;
+  width: 8.53%;
+  top: 58.83%;
+  right: 82.93%;
+  bottom: 35.83%;
+  left: 8.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div2,
+.llp {
+  position: absolute;
+  left: 5rem;
+  line-height: 1rem;
+  display: flex;
+  align-items: center;
+}
+.llp {
+  top: 27rem;
+  font-weight: 600;
+  color: #373583;
+  width: 7.81rem;
+}
+.div2 {
+  top: 28rem;
+  font-size: 0.75rem;
+  color: #807dc0;
+  width: 13.63rem;
+}
+.iconBg32px2,
+.layer3Icon,
+.layer4Icon,
+.layer5Icon {
+  position: absolute;
+  height: 5.33%;
+  width: 8.53%;
+  top: 72%;
+  right: 82.93%;
+  bottom: 22.67%;
+  left: 8.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.layer3Icon,
+.layer4Icon,
+.layer5Icon {
+  height: 3.14%;
+  width: 5.33%;
+  top: 46.67%;
+  right: 84.53%;
+  bottom: 50.19%;
+  left: 10.13%;
+}
+.layer4Icon,
+.layer5Icon {
+  top: 60.33%;
+  bottom: 36.53%;
+}
+.layer5Icon {
+  top: 73.33%;
+  bottom: 23.53%;
+}
+.esHome {
+  position: relative;
+  background-color: #f8f8f8;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 37.5rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 0.88rem;
+  color: #fff;
+  font-family: Inter;
+}

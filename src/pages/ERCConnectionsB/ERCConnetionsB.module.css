@@ -1,0 +1,563 @@
+.ercConnectionsBChild {
+    position: absolute;
+    top: 23.5rem;
+    left: 2rem;
+    width: 2rem;
+    height: 2rem;
+  }
+  .balanceDisplayBg2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #4c4aa1;
+  }
+  .balanceDisplayBg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 23.44rem;
+    height: 15.5rem;
+  }
+  .ercConnectionsBInner,
+  .ercConnectionsBItem,
+  .lineDiv {
+    position: absolute;
+    top: 20.5rem;
+    left: -0.03rem;
+    border-top: 1px solid #e4e3ff;
+    box-sizing: border-box;
+    width: 23.5rem;
+    height: 0.06rem;
+  }
+  .ercConnectionsBInner,
+  .lineDiv {
+    top: 25.5rem;
+  }
+  .lineDiv {
+    top: 15.47rem;
+    left: 1.94rem;
+    border-top: 2px solid #ff7575;
+    width: 2.94rem;
+    height: 0.13rem;
+  }
+  .assets,
+  .history {
+    position: absolute;
+    top: 13.69rem;
+    left: 2rem;
+    line-height: 1.25rem;
+    font-weight: 500;
+    font-family: "SF UI Text";
+    display: flex;
+    align-items: center;
+    width: 3.5rem;
+    height: 1rem;
+  }
+  .history {
+    left: 6.5rem;
+    width: 5rem;
+    opacity: 0.3;
+  }
+  .xCloseGrey {
+    position: absolute;
+    top: 1.5rem;
+    left: 20rem;
+    width: 2rem;
+    height: 2rem;
+  }
+  .div {
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    width: 11.19rem;
+    height: 2.5rem;
+  }
+  .balance,
+  .div,
+  .eth {
+    position: absolute;
+  }
+  .eth {
+    top: 2.5rem;
+    left: 0;
+    font-size: 0.75rem;
+    font-weight: 500;
+    font-family: "SF UI Text";
+    display: flex;
+    align-items: center;
+    width: 4rem;
+    height: 1rem;
+    opacity: 0.8;
+  }
+  .balance {
+    top: 7.56rem;
+    left: 2rem;
+    width: 11.19rem;
+    height: 3.5rem;
+    font-size: 2rem;
+    font-family: "SF UI Display";
+  }
+  .ercConnectionsBChild1 {
+    position: absolute;
+    top: 32.97rem;
+    left: -0.03rem;
+    border-top: 1px solid #e4e3ff;
+    box-sizing: border-box;
+    width: 23.5rem;
+    height: 0.06rem;
+  }
+  .transferButtonChild {
+    top: 0;
+    left: 0;
+    border-radius: 4px;
+    background-color: #3b38d0;
+  }
+  .transfer,
+  .transferButton,
+  .transferButtonChild {
+    position: absolute;
+    width: 9.25rem;
+    height: 2.5rem;
+  }
+  .transfer {
+    top: 0;
+    left: 0;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .transferButton {
+    top: 34rem;
+    left: 12.25rem;
+    text-align: center;
+    font-family: "SF UI Text";
+  }
+  .depositButtonChild {
+    top: 0;
+    left: 0;
+    border-radius: 4px;
+    border: 1px solid #4c4aa1;
+    box-sizing: border-box;
+  }
+  .deposit,
+  .depositButton,
+  .depositButtonChild {
+    position: absolute;
+    width: 9.31rem;
+    height: 2.5rem;
+  }
+  .deposit {
+    top: 0;
+    left: 0;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .depositButton {
+    top: 34rem;
+    left: 2rem;
+    text-align: center;
+    color: #4c4aa1;
+    font-family: "SF UI Text";
+  }
+  .accountsPanelChild {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #f5f5f5;
+    width: 23.44rem;
+    height: 7rem;
+  }
+  .canViewAddresses,
+  .streamrnetwork {
+    position: absolute;
+    top: 1.5rem;
+    left: 5rem;
+    line-height: 1rem;
+    display: flex;
+    align-items: center;
+    width: 11.5rem;
+    height: 1rem;
+  }
+  .canViewAddresses {
+    top: 2.5rem;
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    color: #807dc0;
+    width: 8.31rem;
+  }
+  .accConnectedIcon,
+  .accountsPanelItem {
+    position: absolute;
+    top: 1.5rem;
+    left: 2rem;
+    width: 2rem;
+    height: 2rem;
+  }
+  .accConnectedIcon {
+    top: 8.5rem;
+    width: 2.06rem;
+    height: 2.13rem;
+  }
+  .rule1,
+  .rule2,
+  .rule3,
+  .rule4,
+  .rule5 {
+    position: absolute;
+    top: 31.97rem;
+    left: -0.03rem;
+    border-top: 1px solid #e4e3ff;
+    box-sizing: border-box;
+    width: 23.5rem;
+    height: 0.06rem;
+  }
+  .rule1,
+  .rule2,
+  .rule3,
+  .rule4 {
+    top: 26.97rem;
+  }
+  .rule1,
+  .rule2,
+  .rule3 {
+    top: 22.03rem;
+  }
+  .rule1,
+  .rule2 {
+    top: 16.97rem;
+  }
+  .rule1 {
+    top: 11.97rem;
+  }
+  .groupChild {
+    position: absolute;
+    top: 0;
+    left: 1.75rem;
+    border-radius: 20px;
+    background-color: #6ec67a;
+    width: 1.75rem;
+    height: 1rem;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+  }
+  .groupItem,
+  .rectangleParent {
+    position: absolute;
+    top: -0.12rem;
+    left: 0.63rem;
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+  .rectangleParent {
+    top: 0.5rem;
+    left: 0.13rem;
+    width: 1.75rem;
+    height: 1rem;
+  }
+  .smallToggleOn,
+  .smallToggleOn1 {
+    position: absolute;
+    top: 8.5rem;
+    left: 19.5rem;
+    width: 2rem;
+    height: 2rem;
+    overflow: hidden;
+  }
+  .smallToggleOn1 {
+    top: 13.5rem;
+  }
+  .accountsPanelInner,
+  .rule0 {
+    position: absolute;
+    top: 6.97rem;
+    left: -0.03rem;
+    border-top: 1px solid #e4e3ff;
+    box-sizing: border-box;
+    width: 23.5rem;
+    height: 0.06rem;
+  }
+  .accountsPanelInner {
+    top: 6.94rem;
+    left: 8.75rem;
+    border-top: 2px solid #ff7575;
+    width: 2.94rem;
+    height: 0.13rem;
+  }
+  .accounts {
+    top: 5.19rem;
+    left: 2rem;
+    line-height: 1.25rem;
+    width: 4.5rem;
+    opacity: 0.7;
+  }
+  .accounts,
+  .connections,
+  .permissions,
+  .thisSiteCan {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    height: 1rem;
+  }
+  .connections {
+    top: 5.19rem;
+    left: 7.5rem;
+    line-height: 1.25rem;
+    font-weight: 500;
+    width: 5.5rem;
+  }
+  .permissions,
+  .thisSiteCan {
+    left: 0;
+  }
+  .permissions {
+    top: 0;
+    line-height: 1rem;
+    font-weight: 500;
+    width: 21.44rem;
+  }
+  .thisSiteCan {
+    top: 1rem;
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    color: #807dc0;
+    width: 15.5rem;
+  }
+  .dataIcon,
+  .permissionsParent {
+    position: absolute;
+    left: 2rem;
+    height: 2rem;
+  }
+  .permissionsParent {
+    top: 18.5rem;
+    width: 21.44rem;
+    display: none;
+    font-family: "SF UI Text";
+  }
+  .dataIcon {
+    top: 1.5rem;
+    width: 2rem;
+    overflow: hidden;
+  }
+  .counterChild {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .counter,
+  .counterChild,
+  .div1 {
+    position: absolute;
+  }
+  .div1 {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    line-height: 1rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .counter {
+    height: 2.86%;
+    width: 4.27%;
+    top: 15%;
+    right: 38.13%;
+    bottom: 82.14%;
+    left: 57.6%;
+    text-align: center;
+    font-size: 0.63rem;
+    color: #fff;
+    font-family: "SF UI Text";
+  }
+  .importAccount1 {
+    position: absolute;
+    top: 0;
+    left: 3rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 14.81rem;
+    height: 5rem;
+  }
+  .importAccountChild {
+    position: absolute;
+    top: 1.5rem;
+    left: 0;
+    width: 2rem;
+    height: 2rem;
+  }
+  .importAccount,
+  .importAccountItem {
+    position: absolute;
+    top: 1.89rem;
+    left: 0.58rem;
+    width: 0.8rem;
+    height: 1.05rem;
+  }
+  .importAccount {
+    top: 22.13rem;
+    left: 2rem;
+    width: 17.81rem;
+    height: 5rem;
+    opacity: 0.3;
+  }
+  .accountsPanel {
+    position: absolute;
+    top: 5rem;
+    left: 0;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+    width: 23.44rem;
+    height: 35rem;
+    overflow: hidden;
+    color: #373583;
+  }
+  .networkSelectWhite {
+    position: absolute;
+    height: 5.33%;
+    width: 8.53%;
+    top: 4%;
+    right: 16.8%;
+    bottom: 90.67%;
+    left: 74.67%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.3;
+  }
+  .erc20Stuff,
+  .x7gba0bxd {
+    position: absolute;
+    left: 5rem;
+    display: flex;
+    align-items: center;
+    height: 1rem;
+  }
+  .erc20Stuff {
+    top: 1.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    width: 7.81rem;
+  }
+  .x7gba0bxd {
+    top: 2.63rem;
+    font-size: 0.75rem;
+    width: 7.25rem;
+    opacity: 0.8;
+  }
+  .accountConnectedIcon {
+    position: absolute;
+    top: 1.5rem;
+    left: 2rem;
+    width: 2.06rem;
+    height: 2.13rem;
+  }
+  .connected,
+  .dailyDriver {
+    position: absolute;
+    left: 5rem;
+    display: flex;
+    align-items: center;
+    height: 1rem;
+  }
+  .dailyDriver {
+    top: 13.5rem;
+    line-height: 1rem;
+    font-weight: 600;
+    color: #373583;
+    width: 14.22rem;
+  }
+  .connected {
+    top: 14.5rem;
+    font-size: 0.75rem;
+    color: #807dc0;
+    width: 6.06rem;
+  }
+  .idntcn1Icon {
+    position: absolute;
+    top: 0.45rem;
+    left: 0.4rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    object-fit: cover;
+    mix-blend-mode: normal;
+  }
+  .accountIconWrapper,
+  .accountMenu {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .accountMenu {
+    height: 5.33%;
+    width: 8.53%;
+    top: 36%;
+    right: 82.93%;
+    bottom: 58.67%;
+    left: 8.53%;
+  }
+  .accConnectedIcon1 {
+    position: absolute;
+    top: 13.5rem;
+    left: 2rem;
+    width: 2.06rem;
+    height: 2.13rem;
+  }
+  .accountDetailsV3 {
+    position: absolute;
+    height: 4.71%;
+    width: 7.54%;
+    top: 63%;
+    right: 83.39%;
+    bottom: 32.29%;
+    left: 9.07%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .newAccount {
+    position: absolute;
+    top: 22rem;
+    left: 5rem;
+    font-weight: 500;
+    color: #373583;
+    display: flex;
+    align-items: center;
+    width: 14.81rem;
+    height: 5rem;
+  }
+  .ercConnectionsB {
+    position: relative;
+    background-color: #f8f8f8;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 37.5rem;
+    overflow: hidden;
+    text-align: left;
+    font-size: 0.88rem;
+    color: #fff;
+    font-family: Inter;
+  }

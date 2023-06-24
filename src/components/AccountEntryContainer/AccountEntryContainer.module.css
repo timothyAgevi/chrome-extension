@@ -1,0 +1,80 @@
+.dailyDriver,
+.div {
+  position: absolute;
+  left: 5rem;
+  display: none;
+  align-items: center;
+  height: 1rem;
+}
+.dailyDriver {
+  top: 1.5rem;
+  line-height: 1rem;
+  font-weight: 500;
+  width: 14.22rem;
+}
+.div {
+  top: 2.5rem;
+  font-size: 0.75rem;
+  color: #807dc0;
+  width: 6.06rem;
+}
+.sqrcleIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.idntcn1Icon {
+  position: absolute;
+  top: 0.45rem;
+  left: 0.4rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.accountIconWrapper,
+.accountMenu {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.accountMenu {
+  height: 40%;
+  width: 8.53%;
+  top: 30%;
+  right: 82.93%;
+  bottom: 30%;
+  left: 8.53%;
+  display: none;
+}
+.accConnectedIcon {
+  position: absolute;
+  top: 1.5rem;
+  left: 2rem;
+  width: 2rem;
+  height: 2rem;
+  display: none;
+}
+.accountListEntry {
+  position: absolute;
+  top: 7rem;
+  left: 0;
+  width: 23.44rem;
+  height: 5rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 0.88rem;
+  color: #373583;
+  font-family: "SF UI Text";
+}
